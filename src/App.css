@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  outline: 1px solid #ebcdc4;
+  padding: 1rem;
+}
+.parent > * {
+  flex: 1;
+}
+
+.cluster {
+  outline: 1px solid black;
+  gap: 1rem;
+  padding: 1rem;
+  flex-basis: 400px; /* Define el tamaño inicial de la columna */
+  max-height: 450px;
+  
+ 
+  
+}

@@ -14,8 +14,8 @@ code {
 
 * {
   box-sizing: border-box;
-  margin: 0 auto;
-  padding: 0;
+  margin: 10 auto;
+  padding: 5px;
   font-weight: 300;
 }
 
@@ -63,4 +63,7 @@ dialog p {
   text-align: center;
   align-items: center;
   margin: 10px;
+}
+.cuadro {
+  outline: auto white;
 }
