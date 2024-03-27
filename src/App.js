@@ -22,7 +22,7 @@ function App() {
      <EjemploUseEffect />
      <Ventana />
      <DiccionarioEmojis />
-     <Page />
+     {/* <Page /> */}
      
      
     </div>
