@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eva-Cebrian/summary-of-components-React/static/css/main.fdcc2577.css",
+    "main.js": "/Eva-Cebrian/summary-of-components-React/static/js/main.d760b4c0.js",
+    "static/js/453.ffdf100c.chunk.js": "/Eva-Cebrian/summary-of-components-React/static/js/453.ffdf100c.chunk.js",
+    "index.html": "/Eva-Cebrian/summary-of-components-React/index.html",
+    "main.fdcc2577.css.map": "/Eva-Cebrian/summary-of-components-React/static/css/main.fdcc2577.css.map",
+    "main.d760b4c0.js.map": "/Eva-Cebrian/summary-of-components-React/static/js/main.d760b4c0.js.map",
+    "453.ffdf100c.chunk.js.map": "/Eva-Cebrian/summary-of-components-React/static/js/453.ffdf100c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdcc2577.css",
+    "static/js/main.d760b4c0.js"
+  ]
+}
