@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Eva-Cebrian/summary-of-components-React/static/css/main.fdcc2577.css",
-    "main.js": "/Eva-Cebrian/summary-of-components-React/static/js/main.8d780954.js",
-    "static/js/453.ffdf100c.chunk.js": "/Eva-Cebrian/summary-of-components-React/static/js/453.ffdf100c.chunk.js",
-    "index.html": "/Eva-Cebrian/summary-of-components-React/index.html",
-    "main.fdcc2577.css.map": "/Eva-Cebrian/summary-of-components-React/static/css/main.fdcc2577.css.map",
-    "main.8d780954.js.map": "/Eva-Cebrian/summary-of-components-React/static/js/main.8d780954.js.map",
-    "453.ffdf100c.chunk.js.map": "/Eva-Cebrian/summary-of-components-React/static/js/453.ffdf100c.chunk.js.map"
+    "main.css": "/summary-of-components-React/static/css/main.fdcc2577.css",
+    "main.js": "/summary-of-components-React/static/js/main.7d0382ea.js",
+    "static/js/453.ffdf100c.chunk.js": "/summary-of-components-React/static/js/453.ffdf100c.chunk.js",
+    "index.html": "/summary-of-components-React/index.html",
+    "main.fdcc2577.css.map": "/summary-of-components-React/static/css/main.fdcc2577.css.map",
+    "main.7d0382ea.js.map": "/summary-of-components-React/static/js/main.7d0382ea.js.map",
+    "453.ffdf100c.chunk.js.map": "/summary-of-components-React/static/js/453.ffdf100c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdcc2577.css",
-    "static/js/main.8d780954.js"
+    "static/js/main.7d0382ea.js"
   ]
 }
