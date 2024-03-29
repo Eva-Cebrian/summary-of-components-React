@@ -8,12 +8,17 @@ import EjemploUseEffect from './componentes/useeffect/Cambiotitulo';
 import Ventana from './componentes/ventana/Ventana';
 import DiccionarioEmojis from './componentes/Emoji/Diccionarioemojis';
 import Page from './componentes/dialogconmodal/Page';
+import Titulomenu from './componentes/Titulomenu/Titulomenu';
 
 
 function App() {
   return (
+    <div> 
+      <div>
+        <Titulomenu />
+      </div>
     <div className='parent'>
-      
+     
      <Dialog />
      <Array />
      <ArrayState />
@@ -25,6 +30,7 @@ function App() {
      {/* <Page /> */}
      
      
+    </div>
     </div>
   );
 }

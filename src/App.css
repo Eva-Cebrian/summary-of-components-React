@@ -2,17 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -28,33 +17,14 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 .parent {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
   gap: 1rem;
-  outline: 1px solid #ebcdc4;
-  padding: 1rem;
-}
-.parent > * {
-  flex: 1;
 }
 
 .cluster {
   outline: 1px solid black;
   gap: 1rem;
   padding: 1rem;
-  flex-basis: 400px; /* Define el tamaño inicial de la columna */
-  max-height: 450px;
-  
- 
-  
 }

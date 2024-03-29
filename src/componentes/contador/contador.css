@@ -1,21 +1,9 @@
-
-    
 h2 {
     text-align: center;
     font-size: 4em;
-    
 }
-h3 {
+menu {
     display: flex;
-}
-.centrar {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-.centrar button {
-    display: block;
 }
 
   

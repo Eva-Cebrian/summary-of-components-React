@@ -13,10 +13,10 @@ export default function Contador(){
         <div className='cluster centrar'> 
         <h1>CONTADOR = {numero}</h1>
                
-                <h3>
+                <menu>
                 <button onClick={sumar}> Sumar +  </button>
                 <button onClick={restar}> Restar - </button>
-                </h3>
+                </menu>
                 <p> "useState" para ir modificando el contador</p>
 
         </div>

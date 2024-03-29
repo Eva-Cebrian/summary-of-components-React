@@ -13,9 +13,12 @@ export default function ArrayState(){
     return(
         <>
             <div className="cluster"> 
-            <button onClick={handlerClick}>Add</button>
-            <p>Uso useState para añadir elementos</p>
-            {data.map(v=> <li key={v}> {v} </li>)}
+            
+            <p>Uso useState para añadir elementos a un array</p>
+            <section> 
+                <button onClick={handlerClick}>Add</button>
+               <ul>  {data.map(v=> <li key={v}> {v} </li>)} </ul>
+            </section>
             </div>
         </>
     )

@@ -1,5 +1,7 @@
-.cluster {
-    outline: 1px solid black;
-    gap: 1rem;
-    padding: 1rem;
+section button {
+    width: 100%;
+}
+section ul  {
+    width: fit-content;
+    margin: auto;
 }

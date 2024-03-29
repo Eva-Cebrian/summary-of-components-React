@@ -8,8 +8,9 @@ export default function Dialog(){
     const closeDialog = () => setOpen(false);
     return <>
         <div className="cluster"> 
-        <button onClick={openDialog}> Lanzar el dialog sin showModal</button>
         <p> Aqui se usa el "useState" para visualizar o no una parte de DOM</p>
+        <button onClick={openDialog}> Lanzar el dialog sin showModal</button>
+     
         </div>
 
         { open && 
